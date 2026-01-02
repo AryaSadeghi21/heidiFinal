@@ -1,0 +1,7 @@
+{
+  "acute bronchitis": {
+    "recommended": ["rest", "hydration"],
+    "not_recommended": ["amoxicillin", "azithromycin"]
+  }
+}
+
